@@ -1,0 +1,3 @@
+12345 logfirst a
+23455 logsecond b
+34556 logthird c
